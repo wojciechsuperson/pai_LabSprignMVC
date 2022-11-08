@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 10 lis 2020, 19:09:40
-    Author     : Michał
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

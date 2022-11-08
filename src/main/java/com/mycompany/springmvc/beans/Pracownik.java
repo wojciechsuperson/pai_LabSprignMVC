@@ -5,10 +5,6 @@
  */
 package com.mycompany.springmvc.beans;
 
-/**
- *
- * @author Michał
- */
 public class Pracownik {
     private int id;
     private String nazwisko;

@@ -1,8 +1,3 @@
-<%-- 
-    Document   : editForm
-    Created on : 10 lis 2020, 19:17:05
-    Author     : Michał
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
